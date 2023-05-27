@@ -1,0 +1,3 @@
+[submodule "trash-sub"]
+	path = trash-sub
+	url = git@github.com:kasshedi117/trash-sub.git
